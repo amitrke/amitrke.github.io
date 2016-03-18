@@ -10,16 +10,21 @@ categories: Javascript Sails
 ## Deploying to OpenShift
 
 ## CI Using Travis
+
 ### Build
+
 Enabled the project in Travis and created a minimal config file .travis.yaml
+
 ```
 language: node_js
 node_js:
 - 0.1
 ```
+
 ### Deploy to openshift
 
 Sample .travis.yaml
+
 ```
 language: node_js
 node_js:
@@ -39,7 +44,9 @@ after_success:
   - git add --all
   - git commit -am "Travis change"
 ```
+
 It should work without the after_success block, but as travis was trying to deploy the code it would always complain that there was no code change.
+
 ```
 after_success:
   - git config --global user.email "travis@localhost.localdomain"
