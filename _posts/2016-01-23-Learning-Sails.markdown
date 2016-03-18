@@ -15,11 +15,11 @@ categories: Javascript Sails
 
 Enabled the project in Travis and created a minimal config file .travis.yaml
 
-{% highlight %}
+```
 language: node_js
 node_js:
 - 0.1
-{% endhighlight %}
+```
 
 ### Deploy to openshift
 
