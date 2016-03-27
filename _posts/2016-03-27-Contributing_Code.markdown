@@ -1,4 +1,9 @@
-## Contributing to a Project code
+---
+layout: post
+title:  "Contributing to a Project code"
+date:   2016-03-27 08:30:30 -0500
+categories: git
+---
 
 ### Create new branch
 
