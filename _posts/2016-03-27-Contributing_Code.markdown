@@ -7,7 +7,7 @@ categories: Javascript Sails
 
 ### Create new branch
 
-From the Git Command prompt use
+From the Git Command prompt
 
 ```
 git checkout -b TestBranch
@@ -17,7 +17,6 @@ the output should be something like
 
 ```
 amit@amit-desktop:~/dev/code/courtres$ git checkout -b TestBranch
-M	views/layout.ejs
 Switched to a new branch 'TestBranch'
 ```
 
