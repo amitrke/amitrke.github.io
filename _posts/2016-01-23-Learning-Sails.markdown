@@ -4,6 +4,11 @@ title:  "Learning Sails"
 date:   2016-01-23 21:14:30 -0500
 categories: Javascript Sails
 ---
+## Openshift boilerplate node application
+Since I want to deploy this application online without spending money, Openshift is one of the good options out there.
+Create an account if you don't have one and then create an open shift application.
+Install rhc command line tools on your machine
+clone the git repo from openshift using rhc tools "rhc clone.."
 
 ## Creating a new Sails application
 
