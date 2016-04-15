@@ -1,6 +1,8 @@
-Agile Learning
+## Agile Learning
 
-How and when to break stories
+## How and when to break stories
 
-Relative sizing
-
+## Relative sizing
+Consider having a glass of water and a bucket of water, if you are sizing you could estimate with fair amount of certaininty the number gallons of water in them.
+Now consider having to estimate the number of gallons of water in a Lake, So we see that as the problem becomes bigger our capability to size it correctly diminishes very quickly.
+So you could say this mountain loks twice as big as this one easily.
