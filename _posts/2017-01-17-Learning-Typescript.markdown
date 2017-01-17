@@ -8,4 +8,4 @@ categories: Javascript Sails
 You write code in Typescript a transpiler converts it into Javascript.
 
 ## Functions
-
+Test
