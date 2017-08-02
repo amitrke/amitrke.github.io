@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Sails"
-date:   2016-01-23 21:14:30 -0500
+date:   2017-08-02 21:14:30 -0500
 categories: Javascript Sails
 ---
 ## Openshift boilerplate node application
@@ -59,3 +59,8 @@ after_success:
   - git add --all
   - git commit -am "Travis change"
 ```
+
+### Aug 2017 update - I don't like Sails anymore
+The reason I stopped using sails is because I started to feel restricted in the way the framework would pull the data from database
+Immagine that you have a table "post" where the attribute "author" is a foregin key to the table "author" when I try to query the data it works fine in sails for one level nesting, but it limits me at that one level and I have to write extra code if I need more levels.
+I am switching back to express
