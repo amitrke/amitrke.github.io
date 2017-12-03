@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Indian Vegetarian Recipes"
+title:  "Cooking Rajma in an Instant Pot"
 date:   2017-11-12 21:14:30 -0500
 categories: Cooking
 ---
-# Instant Pot Recipes
+# Rajma (Brown Beans Curry)
 
-## Rajma (Brown Beans Curry)
-
-### Ingredients
+## Ingredients
 
 - 1.5 Cup Rajma (Kidney Beans/Brown Beans) : Soak them in water overnight before cooking.
 
@@ -17,6 +15,7 @@ categories: Cooking
   - 3 Green Chillies
 - Step 2 Ingredients
   - 1/3 Cup Oil (Vegetable/Canola/Olive)
+  - 1/3 TSP Hing
   - 2 Big Elaichai
   - 1 TSP Carrom seeds
   - 1 TSP Ginger paste - or finely chopped.
@@ -30,7 +29,7 @@ categories: Cooking
   - 1/2 TSP Kitchen King Masala
   - 1/3 TSP Sugar
 
-### Preparation
+## Preparation
 
 - Use a blender to blend Step 1 Ingredients to form a puree.
 - Start IP in Saute mode
