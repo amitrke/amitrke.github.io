@@ -5,8 +5,24 @@ date:   2017-12-01 21:14:30 -0500
 categories: Technology
 ---
 
-Framework and libraries
+# Framework and libraries
 
-AngularJS vs Angular
+# AngularJS vs Angular
 
-Typescript
+# Typescript
+
+# Building Blocks
+
+## Modules
+
+## Components
+
+## Directives
+
+Directives allow you to attach a custom behavior to an HTML element.
+
+# Module Loaders
+
+## System JS
+
+## Webpack
