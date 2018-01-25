@@ -17,4 +17,10 @@ A zip file will be downloaded, it has the boilerplate code to get started, the g
 
 
 ## Deploying the app to Google cloud
+
+### Using cloud shell
+
 https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot/index.html?index=..%2F..%2Findex#0
+
+### Using CircleCI
+
