@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Angular"
-date:   2017-12-01 21:14:30 -0500
+date:   2019-03-19 21:14:30 -0500
 categories: Technology
 ---
 
