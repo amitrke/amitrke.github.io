@@ -53,10 +53,39 @@ import {Component, OnInit} from '@angular/core'
 ```
 
 ### How do you do data binding in Angular
+Data binding is a core concept in Angular and allows to define communication between a component and the DOM
+#### Component to DOM
+Interpolation: {{ value }}
+This adds the value of a property from the component:
+```
+<li>Name: {{ user.name }}</li>
+```
+Property binding: [property]=”value”
+The value is passed from the component to the specified property.
+```
+<input type="email" [value]="user.email">
+```
+#### DOM to Component
+Event binding: (event)=”function”
+
+On DOM event (eg.: click, change), call the specified specified method in the component.
+```
+<button (click)="submit()"></button>
+```
+#### Two-way
+Two-way data binding: [(ngModel)]=”value”
+
+```
+<input type="email" [(ngModel)]="user.email">
+```
 
 ### How do you use promises in Angular
 
+https://codecraft.tv/courses/angular/es6-typescript/promises/
+
 ### How do you use Observables in Angular
+Angular 2 onwards it is included as default async type.
+https://medium.com/@mpodlasin/promises-vs-observables-4c123c51fe13
 
 ### What are the main differences between promises and Observables
 
