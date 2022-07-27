@@ -1,32 +1,32 @@
 ---
 layout: recipe
 date: 2022-07-27
-title: Gingernut Cookies
+title: Cake Bread
 categories:
   - Recipie
-  - Cookies
-featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+  - BreadMachine
+featured_image: /img/bread.jpg
 recipe:
-  servings: 60 cookies
+  servings: 1.5 lb loaf
   prep: 15 minutes
-  cook: 15 minutes
+  cook: 3 hours
   ingredients_markdown: |-
-    * 200 g butter
-    * 1 cup sugar
-    * 1 cup golden syrup
-    * 3 cups flour
-    * 1 tablespoon ground ginger
-    * 1 teaspoon baking soda
+    * 245 ml warm water
+    * 43 gm sliced butter
+    * 270 gm bread flour
+    * 90 gm yellow cake mix
+    * 37 gm sugar
+    * 1 tsp salt
+    * 1 tsp yeast
   directions_markdown: |-
-    1. Pre heat oven to 350°F.
-    2. Cream the butter and the sugar.
-    3. Add the golden syrup and the dry ingredients.
-    4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
-    5. Bake at 350°F for 15 minutes.
-    6. Cool on a wire rack and keep in an airtight container once cold.
+    1. Add ingredients to the bread machine in the order they are listed.
+    2. Add 1/4 cup Tutti frutti if you have some.
+    3. Set the machine setting to white bread.
+    4. Cool on a wire rack for atleast an hour.
+    5. Slice the bread.
 ---
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
+Since it does not have preservatives, keep it in refrigerator.
 
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
+![Tutti frutti](https://m.media-amazon.com/images/I/71Waxkdd72S._SL1500_.jpg)
 
 Delicious!
