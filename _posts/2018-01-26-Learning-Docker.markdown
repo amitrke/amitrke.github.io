@@ -19,6 +19,25 @@ Start an image as a container
 docker run -i -t <imageid> /bin/bash
 ```
 
+Run an image as a named container
+
+```
+docker run --name <containername> -i -t <imageid> /bin/bash
+```
+
+List all the containers
+
+```
+docker ps -a
+```
+
+Run a container by name with environment variables
+
+```
+docker run --name <containername> -e <envvar>=<value>
+```
+
+
 # Simple Dockerfile
 
 ```
